@@ -29,13 +29,13 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SergeyEcoil/uberfood.git"
+    "url": "git+https://github.com/IntegroIT/uber-eduzaedu.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SergeyEcoil/uberfood/issues"
+    "url": "https://github.com/IntegroIT/uber-eduzaedu/issues"
   },
-  "homepage": "https://github.com/SergeyEcoil/uberfood#readme",
+  "homepage": "https://github.com/IntegroIT/uber-eduzaedu#readme",
   "description": ""
 }
