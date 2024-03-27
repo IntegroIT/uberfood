@@ -26,5 +26,16 @@
     "@babel/core": "^7.20.0",
     "prettier": "^3.2.5"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyEcoil/uberfood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyEcoil/uberfood/issues"
+  },
+  "homepage": "https://github.com/SergeyEcoil/uberfood#readme",
+  "description": ""
 }
